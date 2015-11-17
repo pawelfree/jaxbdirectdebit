@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/Users/paweldudek/NetBeansProjects/JAXB-DirectDebit/pain008_1.xsd" uri="xml-resources/jaxb/binding2/pain008_1.xsd"/>
+    <system systemId="file:/Users/paweldudek/NetBeansProjects/JAXB-DirectDebit/pain008.xsd" uri="xml-resources/jaxb/binding1/pain008.xsd"/>
+    <system systemId="file:/Users/paweldudek/NetBeansProjects/JAXB-DirectDebit/pain002.xsd" uri="xml-resources/jaxb/binding2/pain002.xsd"/>
+</catalog>
